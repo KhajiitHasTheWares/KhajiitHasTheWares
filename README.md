@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KhajiitHasTheWares
-- 👀 I’m interested in Javascript, Jquery, and C (Maybe, I learned a bit once and am willing to try again)
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in C (Maybe, I learned a bit once and am willing to try again)
+- 🌱 I’m currently learning APIs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  
 
