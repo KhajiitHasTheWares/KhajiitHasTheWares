@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KhajiitHasTheWares
-- 👀 I’m interested in C (Maybe, I learned a bit once and am willing to try again)
-- 🌱 I’m currently learning APIs
+- 👀 I’m interested in 
+- 🌱 I’m currently learning APIs and Discord Bots
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  
 
