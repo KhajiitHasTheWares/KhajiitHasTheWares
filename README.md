@@ -2,7 +2,7 @@
 - 👀 I’m interested in C, Javascript, Python (For Raspberry pi even though I originally hated it)
 - 🌱 I’m currently building electronic projects and modding old consoles
 - 💞️ I’m looking to collaborate on Maybe a raspberry pi one day? The programming on it?
-- 📫 How to reach me On discord. It's khajiit.has.tha.wares
+- 📫 How to reach me k.f.russell.5824@gmail.com (Yes, I check emails)
 
 <!---
 KhajiitHasTheWares/KhajiitHasTheWares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
