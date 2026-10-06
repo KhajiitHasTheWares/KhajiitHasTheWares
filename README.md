@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KhajiitHasTheWares
-- 👀 I’m interested in C, Javascript, Python (For Raspberry pi even though I originally hated it)
+- 👀 I’m interested in C, C++, JavaScript, Python (For Raspberry pi even though I originally hated it)
 - 🌱 I’m currently building electronic projects and modding old consoles. Also working on my own self-hosted server for me and my household.
 - 💞️ I’m looking to collaborate on Maybe a raspberry pi one day? The programming on it?
 - 📫 How to reach me k.f.russell.5824@gmail.com (Yes, I check emails)
